@@ -1,0 +1,19 @@
+#pView{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+    box-shadow: inset -2px -2px rgba(101, 98, 98, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+}
+.Myimg{
+    width: 200px;
+    height: 150px;
+}
+.Myimg img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

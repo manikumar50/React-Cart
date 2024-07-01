@@ -1,0 +1,16 @@
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.img{
+    width: 80px;
+    height: 80px;
+}
+.count{
+    padding: 5px;
+    background-color: red;
+    color: white;
+    border-radius: 100%;
+}
